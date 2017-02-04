@@ -8,8 +8,8 @@ package ejercicio_basedatos;
 import java.sql.SQLException;
 
 /**
- *
- * @author Dani
+ * La clase Basedatos es clase main del Proyecto y es la que nos permite abrir el Menú.
+ * @author Jose Carlos
  */
 public class Basedatos {
 
